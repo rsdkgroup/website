@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /portal/
+Disallow: /_*
+Disallow: /js/*
+Disallow: /style/*
